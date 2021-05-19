@@ -1,2 +1,15 @@
 # VIDGA-Emotion-Recognition-Final-Version
- VIDGA: Emotion Recognition from audio and video
+# CREDITS #
+
+Project Members:
+- Danyel Mert Bakmaz
+- Doğancan Çakır
+- Eyüp Han Özmen
+- Gökhan Uçar
+
+Project Supervisor:
+- Zeynep Altan
+- Gülay Çiçek
+
+Special Thanks:
+- Kaan Uçar
