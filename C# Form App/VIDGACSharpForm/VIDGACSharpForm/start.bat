@@ -1,0 +1,1 @@
+Start ""  "C:\Users\Gokhan\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)\Anaconda Prompt (anaconda3).lnk"

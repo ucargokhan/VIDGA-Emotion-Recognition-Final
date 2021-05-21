@@ -1,0 +1,2 @@
+cd C:\Users\Gokhan\Desktop\VİDGA Emotion Recognition Final
+jupyter notebook
