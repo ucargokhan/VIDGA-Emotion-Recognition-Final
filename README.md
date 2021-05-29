@@ -7,7 +7,7 @@ Project Members:
 - Eyüp Han Özmen
 - Gökhan Uçar
 
-Project Supervisor:
+Project Supervisors:
 - Zeynep Altan
 - Gülay Çiçek
 
